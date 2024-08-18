@@ -1,7 +1,7 @@
 {
     "name": "Avaloria-Launcher",
     "preductname": "Avaloria Launcher",
-    "version": "2.0.8",
+    "version": "2.0.9",
     "description": "Launcher Officiel Avaloria Launcher",
     "main": "src/app.js",
     "author": {
